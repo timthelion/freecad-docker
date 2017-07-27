@@ -1,0 +1,13 @@
+{
+ "description": "The latest greatest freecad built from source.",
+ "maintainer": "Leonardo Loures <luvres@hotmail.com>",
+ "executable": "/bin/bash",
+ "basic-common-permissions": {
+  "stateful-home": true,
+  "inherit-locale": true,
+  "inherit-timezone": true
+ },
+ "access-working-directory": true,
+ "x11": true,
+ "graphics-card": true
+}

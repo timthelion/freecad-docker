@@ -1,0 +1,9 @@
+{
+ "explicit-image-sources": {
+  "freecad": {
+   "permissions-file": "subuser/freecad/permissions.json",
+   "build-context": "./",
+   "image-file": "Dockerfile"
+  }
+ }
+}
